@@ -68,7 +68,7 @@ public abstract class Player {
     public int getHandSize() {
 
         return hand.length();
-
+?>]
     }
 
     public int getPairs() {
